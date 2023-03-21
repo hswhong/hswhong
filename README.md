@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Shi Wei </h1>
-<h2 align="center"> Full Stack Web Developer </h2>
+<h3 align="center"> Full Stack Web Developer </h3>
 
 <br>
 
