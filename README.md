@@ -5,11 +5,11 @@
 
 ## About me
 
-I am someone who loves understanding new concepts and consistently improving my skills, so I decided to go into web development as a career path! After graduating from the web development bootcamp at Le Wagon London, I now have a foundation in full stack web development using Ruby on Rails as a framework.
+I am a full-stack web developer. I am knowledgeable in HTML, CSS, Javascript, Ruby and Rails. 
 
 ## Interests
 
-I have a passion for anything related to tech and have a desire to understand the latest trends in the space. I also love animals, nature and fitness.
+I have a passion for anything related to tech and have a desire to understand the latest trends in the space. I also love animals, nature and fitness. 
 
 
 <!--
