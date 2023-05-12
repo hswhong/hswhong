@@ -5,7 +5,7 @@
 
 ## About me
 
-I am a full-stack web developer. I work with HTML, CSS, Javascript, Ruby and Rails. 
+I am a web developer with emphasis on the frontend. I work with HTML, CSS, Javascript, Ruby and Rails. 
 
 ## Interests
 
