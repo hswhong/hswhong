@@ -5,11 +5,11 @@
 
 ## About me
 
-I am a web developer with emphasis on the frontend. I work with HTML, CSS, Javascript, Ruby and Rails. 
+I am a web developer with emphasis on the frontend. I have experience with fullstack web developement using Ruby as the server side language and Rails as the framework. I am also proficient with HTML, CSS and Javascript. Currently exploring React.
 
 ## Interests
 
-I have a passion for anything related to tech and have a desire to understand the latest trends in the space. I also love animals, nature and fitness. 
+I have a passion for anything related to tech and have a desire to understand the trends in the space. I also love animals, nature and fitness. 
 
 
 <!--
